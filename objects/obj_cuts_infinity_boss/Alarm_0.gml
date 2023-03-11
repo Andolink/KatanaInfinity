@@ -1,0 +1,1 @@
+create_psych_bullet(x+220,y,depth-1,180,15,true)

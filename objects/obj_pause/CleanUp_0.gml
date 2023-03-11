@@ -1,0 +1,2 @@
+surface_free(pause_surface)
+buffer_delete(pause_surface_buffer)

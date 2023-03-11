@@ -1,0 +1,1 @@
+start_anim = 64

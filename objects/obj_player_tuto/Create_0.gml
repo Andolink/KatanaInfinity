@@ -1,0 +1,1 @@
+key = vk_anykey

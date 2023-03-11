@@ -1,0 +1,1 @@
+global.slow_motion = 1

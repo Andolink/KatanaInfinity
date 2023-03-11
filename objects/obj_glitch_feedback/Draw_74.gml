@@ -1,0 +1,4 @@
+BktGlitch_activate(GAME_WIDTH,GAME_HEIGHT)
+BktGlitch_set_intensity(0.833333);BktGlitch_set_line_shift(0.030333);BktGlitch_set_line_speed(0.030000);BktGlitch_set_line_resolution(random_range(0.25,0.50));BktGlitch_set_line_drift(0.000000);BktGlitch_set_line_vertical_shift(0.680000);BktGlitch_set_noise_level(0.000000);BktGlitch_set_jumbleness(0.200000);BktGlitch_set_jumble_speed(0.000000);BktGlitch_set_jumble_resolution(0.200000);BktGlitch_set_jumble_shift(0.000000);BktGlitch_set_channel_shift(0.000000);BktGlitch_set_channel_dispersion(0.002500);BktGlitch_set_shakiness(0.200000);BktGlitch_set_rng_seed(0.420000);//////Alternatively:BktGlitch_config(0.030333, 0.030000, 0.460000, 0.000000, 0.680000, 0.200000, 0.000000, 0.200000, 0.000000, 0.000000, 0.000000, 0.002500, 0.200000, 0.833333, 0.420000);draw_surface_ext(application_surface,0,0,1,1,0,c_white,1)
+draw_surface_ext(application_surface,0,0,1,1,0,c_white,1)
+shader_reset()

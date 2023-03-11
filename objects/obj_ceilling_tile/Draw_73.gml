@@ -1,0 +1,1 @@
+draw_sprite_ext(spr_ceiling_tile_glow_0,0,x,y,image_xscale,1,0,c_white,1-(distance_to_object(obj_player)/150-.25))

@@ -1,0 +1,2 @@
+audio_stop_sound(sound_ambience_radio_glitch_01)
+instance_activate_all()
